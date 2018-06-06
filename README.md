@@ -2,7 +2,7 @@
 
  
  ## 0xLiteCoin 
- [Deployed on Ethereum](https://etherscan.io/address/0x74ee01c2263fce22a45be7c0904bde1701a74933691696c393eccab8b29923fa
+ [Deployed on Ethereum](https://etherscan.io/address/0x012fd5049a203df08c02fb2e0ed15ceed10d9ed4
 )
  
 ![0xLitecoin_small](https://user-images.githubusercontent.com/)
