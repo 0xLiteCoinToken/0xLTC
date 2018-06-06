@@ -1,0 +1,39 @@
+One Suggested way of mining
+
+https://github.com/mining-visualizer/MVis-tokenminer/releases
+
+Things to get started:
+An Ethereum Account with a little ETH in it to process the TX hashes for your mining.
+
+Set up your own infura.io url at: http://infura.io/signup.
+
+Download MVis Token Miner software from the link below.
+
+Download MVis Token Miner
+2. Extract MVis Token Miner
+Inside the folder of your extracted files, there's another folder labeled tokenminer and inside of that folder is a file labeled tokenminer.ini.
+
+Open the tokenminer.ini file in NotePad and replace the following information with your own. Notee: Do not delete any of the other information inside the file.
+
+Add YOUR information to the following:
+
+Host=https://mainnet.infura.io/your_api_key
+RPCPort=8545
+MinerAcct=0x……………….
+AcctPK=……………………
+TokenContract=0x012fD5049A203Df08c02FB2e0Ed15CEeD10d9ED4
+GasPrice=5 
+
+MinerAcct is your Ethereum account. (Remember to have some ETH on it.)
+AcctPK is the private key of your Ethereum account. 
+You will need to adjust GasPrice as you see fit.
+
+3. Launch MVis Token Miner
+After completing the steps above, open cmd window.
+
+Browse to the location where you extracted the miner software or drag and drop tokenminer.exe into the cmd window.
+
+Run the following command: tokenminer.exe -S -C -t 1
+
+Note: The above command and steps are to start your miner in solo mode using you CPU (using 1 CPU thread.) You can adjust amount of threads by changing -t 1 to the number of threads you wish to mine with.
+
