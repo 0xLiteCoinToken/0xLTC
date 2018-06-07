@@ -5,7 +5,7 @@
  [Deployed on Ethereum](https://etherscan.io/address/0x012fd5049a203df08c02fb2e0ed15ceed10d9ed4
 )
  
-![0xLitecoin_small](https://user-images.githubusercontent.com/)
+![0xLitecoin_small](https://raw.githubusercontent.com/0xLiteCoinToken/0xLTC/master/logo.png)
 
  
  #### An ERC20 token that is mined using PoW through a SmartContract 
