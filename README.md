@@ -12,7 +12,7 @@
   
   * Before the BTC Talk [ANN] ~ 0.0357143% of supply was mined publicly over the period of just under about 1 day.
   * No ICO
-  * 81,000,000 tokens total
+  * 84,000,000 tokens total
   * Difficulty target auto-adjusts with PoW hashrate
   * Rewards decrease as more tokens are minted 
   * Compatible with all services that support ERC20 tokens
